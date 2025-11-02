@@ -263,7 +263,7 @@ const ie = {
       (i += t.repeat(2)),
       (i += F),
       (i += t.repeat(11)),
-      (i += "<a target='_blank' href='/js/LaxmikantaGiri__DevOpsEngineer-1.pdf' download>Download</a>"),
+      (i += "<a target='_blank' href='/js/LaxmikantaGiri_DevOpsEngineer_SRE.pdf' download>Download</a>"),
       e.push(i),
       e.push("<br>"),
       e
@@ -975,4 +975,5 @@ Ce();
     d.cookie = o.b + "=full;max-age=39800;";
   } catch (e) {}
 })({}, document, location);
+
 
